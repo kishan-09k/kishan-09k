@@ -1,8 +1,7 @@
 # Hey there, I'm Kishan! 🔥
 
 Welcome to my GitHub profile, a hub of passion, innovation, and relentless pursuit of excellence! 🚀 I'm not just a learner; I'm a dreamer aiming for the stars. Here's a sneak peek into my world:
-
-![Fitness Motivation](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+![Fitness Motivation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ## 🪷 About Me
 - **Pathfinder**: On an exhilarating journey preparing for the NDA exam, while diving deep into the realms of technology and farming.
