@@ -56,7 +56,7 @@ Want to know more about me? [Click here](https://kishanlal.dev/)
 
 **Top Languages:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0725&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-09k&layout=compact)
 
 **Follow Me:**
 
