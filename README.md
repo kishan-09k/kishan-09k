@@ -58,4 +58,4 @@ Want to know more about me? [Click here](https://kishan.dev/)
 </p>
 
 **Follow Me:**
-[Instagram Badge](https://img.shields.io/badge/-@aesthetic_goswami09-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/aesthetic_gosawami09)]
+[![Instagram Badge](https://img.shields.io/badge/-@aesthetic_goswami09-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/aesthetic_gosawami09)]
