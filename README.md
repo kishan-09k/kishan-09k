@@ -59,4 +59,4 @@ Want to know more about me? [Click here](https://kishan.dev/)
 
 **Follow Me:**
 
-[Instagram Badge](https://Instagram.com/aesthetic_goswami09)]
+[Instagram Badge](https://Instagram.com/aesthetic_goswami09/)
