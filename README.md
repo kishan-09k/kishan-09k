@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile, a hub of passion, innovation, and relentless pursuit of excellence! 🚀 I'm not just a learner; I'm a dreamer aiming for the stars. Here's a sneak peek into my world:
 
+![Fitness Motivation](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+
 ## 🪷 About Me
 - **Pathfinder**: On an exhilarating journey preparing for the NDA exam, while diving deep into the realms of technology and farming.
 - **Passions**: A dynamic blend of tech wizardry, agricultural insights, gym enthusiasm, and spiritual growth through the Bible.
@@ -18,7 +20,7 @@ Embark on a thrilling adventure through my projects:
 - **Long-Term Legacy**: Fuse technology with farming to pioneer sustainable and revolutionary agricultural solutions.
 
 ## 🧼 Let's Connect
-- **Instagram**: [@kishan_fitness_farm](https://instagram.com/aesthetic_goswami09) 🌟
+- **Instagram**: [See My GF](https://instagram.com/aesthetic_goswami09) 🌟
 - **LinkedIn**: [Kishan Profile](https://linkedin.com/in/kishan-profile) 🔗
 
 Dive into my repositories, explore the innovations, and let's ignite a wave of change together! Feel the energy, share the vision, and let's build a future that gives you goosebumps! 🙌🔥
