@@ -49,9 +49,13 @@ Want to know more about me? [Click here](https://kishan.dev/)
 
 ![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan-09k&show_icons=true&hide_border=true)
 
-**Top Languages:**
+### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-09k&layout=compact)
+<p align="center">
+<a href = "https://github.com/kishan-09k">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-09k&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
 
 **Follow Me:**
 
