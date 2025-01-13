@@ -61,10 +61,10 @@ Want to know more about me? [Click here](https://kishanlal.dev/)
 **Follow Me:**
 
 - [LinkedIn](https://www.linkedin.com/in/kishan0725/)
-- [Instagram](https://www.instagram.com/kishan_07_25/)
+- [Instagram](https://www.instagram.com/aesthetic_goswami09/)
 - [Twitter](https://twitter.com/kishan0725)
 - [Quora](https://www.quora.com/profile/Kishan-Lal-72)
-- [GitHub](https://github.com/kishan0725)
-- [Gmail](mailto:kishanlal0725@gmail.com)
+- [GitHub](https://github.com/kishan-09k)
+- [Gmail](mailto:goswami09@proton.me)
 - [StackOverflow](https://stackoverflow.com/users/10346161/kishan-lal)
 - [YouTube](https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg)
