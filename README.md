@@ -59,5 +59,5 @@ Want to know more about me? [Click here](https://kishan.dev/)
 
 **Follow Me:**
 [![Instagram Badge](https://img.shields.io/badge/-@aesthetic_goswami09-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/aesthetic_gosawami09)]
-[![Gmail Badge](https://img.shields.io/badge/-@Mail Here-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:goswami@proton.com)](mailto:goswami@proton.com)
-[![GitHub Badge](https://img.shields.io/badge/-@kishan-09k-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan-09k)](https://github.com/kishan-09k) 
+[![Gmail Badge](https://img.shields.io/badge/-@Mail Here-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:goswami@proton.com)](mailto:goswami@proton.com)]
+[![GitHub Badge](https://img.shields.io/badge/-@kishan-09k-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan-09k)](https://github.com/kishan-09k)]
