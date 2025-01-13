@@ -1,10 +1,10 @@
 ## Hi there, I'm Kishan! 👋
 
-A Software Engineer 💻 and a passionate self-taught programmer 🔥 from Madurai, India. 🇮🇳
+A Software Engineer 💻 and a passionate self-taught programmer 🔥 from Bharuch, India. 🇮🇳
 
 ![Coder GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-Want to know more about me? [Click here](https://kishanlal.dev/)
+Want to know more about me? [Click here](https://kishan.dev/)
 
 **Talking about Personal Stuffs:**
 
@@ -13,42 +13,7 @@ Want to know more about me? [Click here](https://kishanlal.dev/)
 - 🌐 My interests are with Web App Development 🌐, AI 🧐, Cricket 🏏, Space 🚀, etc..;
 - 🎮 I love watching movies and I'm a big fan of MCU 🧘‍♂️;
 - 💬 Ask me about anything, I am happy to help;
-- 📧 Please email via kishanlal0725@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/kishan0725/) to reach me;
-
-**Languages and Tools:**
-
-```json
-{
-  "languages": [
-    "python",
-    "javascript",
-    "html5",
-    "php",
-    "jquery",
-    "C",
-    "css3",
-    "laravel",
-    "java",
-    "typescript",
-    "flask",
-    "protractor",
-    "react",
-    "angular",
-    "mongodb",
-    "django",
-    "serverless",
-    "node.js",
-    "mysql",
-    "spring-boot",
-    "express.js",
-    "git",
-    "aws-rds",
-    "linux",
-    "aws-lambda",
-    "sklearn"
-  ]
-}
-```
+- 📧 Please email via goswami09@proton.com or ping me on [LinkedIn](https://www.linkedin.com/in/#/) to reach me;
 
 **GitHub Stats:**
 
@@ -60,11 +25,6 @@ Want to know more about me? [Click here](https://kishanlal.dev/)
 
 **Follow Me:**
 
-- [LinkedIn](https://www.linkedin.com/in/kishan0725/)
 - [Instagram](https://www.instagram.com/aesthetic_goswami09/)
-- [Twitter](https://twitter.com/kishan0725)
-- [Quora](https://www.quora.com/profile/Kishan-Lal-72)
 - [GitHub](https://github.com/kishan-09k)
 - [Gmail](mailto:goswami09@proton.me)
-- [StackOverflow](https://stackoverflow.com/users/10346161/kishan-lal)
-- [YouTube](https://www.youtube.com/channel/UCbJ1G7ueeRGSFj0dNVYDNAg)
