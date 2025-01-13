@@ -52,7 +52,7 @@ Want to know more about me? [Click here](https://kishanlal.dev/)
 
 **GitHub Stats:**
 
-![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan0725&show_icons=true&hide_border=true)
+![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan-09k&show_icons=true&hide_border=true)
 
 **Top Languages:**
 
