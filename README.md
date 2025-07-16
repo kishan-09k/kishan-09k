@@ -8,8 +8,7 @@ Want to know more about me? [Click here](https://kishan.dev/)
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m a Senior Software Engineer at Presidio;
-- 🎓 I’ve completed my Bachelor's degree in Information Technology at VCET;
+- 👨‍💻 I’m a webapp Engineer at Presio;
 - 🌐 My interests are with Web App Development 🌐, AI 🧐, Cricket 🏏, Space 🚀, etc..;
 - 🎮 I love watching movies and I'm a big fan of MCU 🧘‍♂️;
 - 💬 Ask me about anything, I am happy to help;
