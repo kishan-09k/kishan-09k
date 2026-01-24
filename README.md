@@ -1,21 +1,115 @@
-# 💫 About Me:
-👨‍💻 I’m a webapp Engineer ;<br><br>🌐 My interests are with Web App Development 🌐, AI 🧐, Cricket 🏏, Space 🚀, etc..;<br><br>🎮 I love watching movies and I'm a big fan of MCU 🧘‍♂️;<br><br>💬 Ask me about anything, I am happy to help;<br><br>📧 Please email via goswami09@proton.com or ping me on LinkedIn to reach me
+# Kishan Goswami
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@urfav._goswami09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goswami09@proton..me) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishan-09k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kishan-09k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-09k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishan-09k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Chemical Engineering Undergraduate  
+Process Engineering • Plant Operations • Industrial Systems  
+Target Role: **Process Engineer → Operations Engineer → Plant Manager (Middle East)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kishan-09k&icon=3&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Executive Profile
+
+Chemical engineering professional in training with a **plant-floor mindset**.  
+Focused on **safe operations, process stability, and system-level efficiency** required in **continuous and batch manufacturing plants**.
+
+My preparation is aligned with **high-discipline industrial environments** such as **petrochemical, fertilizer, refinery, and large-scale process plants** in the Middle East.
+
+---
+
+## Industrial Alignment
+
+- Process Engineering & Plant Operations  
+- Production Monitoring & Optimization  
+- Equipment-Process Interaction  
+- Safety, Reliability & Operational Discipline  
+- Shift Operations & Plant Coordination  
+
+---
+
+## Core Engineering Competency
+
+### Chemical & Process Engineering
+![Chemical Engineering](https://img.shields.io/badge/Chemical_Engineering-002855?style=flat)
+![Process Engineering](https://img.shields.io/badge/Process_Engineering-0A3D62?style=flat)
+![Unit Operations](https://img.shields.io/badge/Unit_Operations-1E3799?style=flat)
+![Material_Energy_Balance](https://img.shields.io/badge/Material_%26_Energy_Balance-3742FA?style=flat)
+![Industrial Safety](https://img.shields.io/badge/Industrial_Safety_%26_HAZOP-7D0000?style=flat)
+![Process Optimization](https://img.shields.io/badge/Process_Optimization-2F3640?style=flat)
+
+### Technical & Digital Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-455A64?style=flat)
+
+---
+
+## Operating Philosophy (Plant-Grade)
+
+- **Safety is non-negotiable**
+- **Procedures exist for a reason**
+- **Data > assumptions**
+- **Stable operations beat aggressive output**
+- **Leadership begins with responsibility**
+
+---
+
+## GitHub Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishan-09k&show_icons=true&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-09k&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-09k&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Current Professional Focus
+
+- Strengthening **process engineering fundamentals**
+- Developing **plant-level operational thinking**
+- Understanding **failure modes & process upsets**
+- Building discipline through **consistent execution**
+- Using software tools to support **engineering clarity**
+
+---
+
+## What This GitHub Represents
+
+- Engineering learning with **industrial relevance**
+- Structured thinking, not random projects
+- Documentation reflecting **real-plant communication**
+- Long-term preparation for **operations leadership**
+
+---
+
+## Industry Readiness Indicators
+
+- Comfortable with shift responsibility  
+- Respect for SOPs and safety systems  
+- Calm decision-making under constraints  
+- Long-term reliability mindset  
+
+---
+
+## Open To
+
+- Industrial mentorship  
+- Process & operations discussions  
+- Engineering knowledge exchange  
+- Long-term professional alignment  
+
+---
+
+## Personal Standard
+
+> A plant does not tolerate excuses.  
+> It rewards discipline, systems, and accountability.  
+> I am building myself to meet that standard.
+
+---
+
+Status: **Focused • Consistent • Operations-Oriented**
