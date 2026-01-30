@@ -1,4 +1,4 @@
-# Kishan Goswami
+# GOSWAMI KISHAN 
 
 Chemical Engineering Undergraduate  
 Process Engineering • Plant Operations • Industrial Systems  
@@ -97,7 +97,7 @@ My preparation is aligned with **high-discipline industrial environments** such 
 
 ## Open To
 
-- Industrial mentorship  
+- WEBAPP mentorship  
 - Process & operations discussions  
 - Engineering knowledge exchange  
 - Long-term professional alignment  
